@@ -125,4 +125,4 @@ Run psql and then run \l to see that the new database has been created
 
 29-install git 
 
-
+what helped me to achieve this project is https://github.com/rrjoson/udacity-linux-server-configuration
